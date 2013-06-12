@@ -1,5 +1,7 @@
 Copyright bitcoin, litecoin, digitalcoin, argentum developers 2013.
 
+Website: ARGCurrency.Org
+
 Argentum is the Latin name for the element silver. It is the perfect name to represent this currency and the potential it has with a dedicated development team. Argentum is fast, unique, and secure. We have learned from many of the past crypto-currencies and created one that can rival any. Argentum brings innovation and experimentation that pushes the limits. The website, marketplace, and exchange are under construction and will be launched soon after Argentum.
 
 Specifications
@@ -43,12 +45,6 @@ There will be blocks mined for funding an upcoming currency exchange platform, m
 
 We will be distributing 25 coins to the first 1000 people to post in the initial promotional giveaway thread as the use for the first 25,000 coins. We believe this will help create  a balance in the economy and add value to the currency.
 
-Team
-We have a team that will build core services and useful applications for Argentum. We welcome anyone to join the team and help with development.
-
-Core Programmers: 2
-Web developers : 2
-Graphic designer: 1
 
 Mining
 You can either solo mine or mine in a pool.

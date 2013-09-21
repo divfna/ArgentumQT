@@ -1,4 +1,4 @@
-Copyright bitcoin, litecoin, digitalcoin, argentum developers 2013.
+Copyright Bitcoin, Litecoin, Digitalcoin, Argentum developers 2013.
 
 Website: ARGCurrency.Org
 
